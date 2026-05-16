@@ -1,0 +1,36 @@
+Feature,Importance
+tenure,0.1669929786969699
+TotalCharges,0.12522436586365826
+MonthlyCharges,0.08682303650341912
+InternetService_Fiber optic,0.0767859690559207
+PaymentMethod_Electronic check,0.0743949259401221
+Contract_Two year,0.0640045331220841
+TenureGroup_49+ months,0.05795067023575549
+Contract_One year,0.03963114840884416
+OnlineSecurity_Yes,0.030410797896452024
+TechSupport_Yes,0.02794361653948041
+OnlineBackup_No internet service,0.021030207433653407
+PaperlessBilling_Yes,0.018337178825282806
+TechSupport_No internet service,0.014725836395660604
+DeviceProtection_No internet service,0.014369754870469376
+OnlineSecurity_No internet service,0.014081930988223119
+StreamingTV_No internet service,0.012850439761917694
+TenureGroup_25-48 months,0.0122394075249299
+StreamingMovies_No internet service,0.011938090994246081
+OnlineBackup_Yes,0.011356388133684111
+MultipleLines_Yes,0.011304374806867017
+SeniorCitizen,0.00987338570733954
+Dependents_Yes,0.009610604060699699
+MonthlyChargeGroup_Medium Charge,0.009342688059506648
+Partner_Yes,0.008861268818013591
+StreamingMovies_Yes,0.008190146398264458
+StreamingTV_Yes,0.008130361048327974
+gender_Male,0.008004260885821127
+InternetService_No,0.007233962886956019
+PaymentMethod_Credit card (automatic),0.007158902108938546
+DeviceProtection_Yes,0.0069824753692338554
+PaymentMethod_Mailed check,0.006293234415943183
+TenureGroup_13-24 months,0.006118304707971491
+MonthlyChargeGroup_Low Charge,0.005620552830191521
+MultipleLines_No phone service,0.003313514495342065
+PhoneService_Yes,0.0028706862098099445
